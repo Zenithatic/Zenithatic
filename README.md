@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Existing since 2006<br>📚 I'm currently learning basic full-stack development<br>🎯 Goals: Learn Kubernetes, React.js, Next.js, Basics of web security, Ansible, Terraform, AWS, and much more <br>🎲 Fun fact: Currently working on [BookshelfAI](https://bookshelfai.onrender.com/), check it out and give me some feedback</p>
+<p align="left">✨ Existing since 2006<br>📚 I'm currently learning basic full-stack development<br>🎯 Goals: Learn Kubernetes, React.js, Next.js, Basics of web security, Ansible, Terraform, AWS, and much more <br>🎲 Fun fact: Currently working on BookshelfAI , check it out and give me some feedback: https://bookshelfai.onrender.com</p>
 
 ###
 
