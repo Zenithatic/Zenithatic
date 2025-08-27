@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zenithatic](https://github.com/Zenithatic)
 
-- 📫 How to reach me **p39wang@uwaterloo.ca**
+- 📫 How to reach me **p39wang@uwaterloo.ca** or **patrick_wang_@outlook.com**
 
 
 
