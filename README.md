@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ranked CRL** as a founding engineer
 
-- 🌱 I’m currently learning **React.JS, Kubernetes, and AWS**
+- 🌱 I’m currently learning **React.JS, Kubernetes, Istio, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zenithatic](https://github.com/Zenithatic)
 
