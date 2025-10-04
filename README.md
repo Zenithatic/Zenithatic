@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patrick Wang</h1>
 <h3 align="center">I'm an undergraduate computer science student @ UWaterloo</h3>
 
-- 🔭 I’m currently working on **interview & hackathon prep**
+- 🔭 I’m currently working on **Ranked CRL** as a founding engineer
 
-- 🌱 I’m currently learning **React.JS, React Libraries, Next.js, Kubernetes, AWS, IaC tools, Vite, Tailwind CSS**
+- 🌱 I’m currently learning **React.JS, Kubernetes, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zenithatic](https://github.com/Zenithatic)
 
